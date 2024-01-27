@@ -25,7 +25,7 @@ This project is a basic landing page that showcases your product, service, or po
 
 ## Demo
 
-Check out the live demo [here](#your-demo-link).
+Check out the live demo [here](#https://the-pranay.github.io/CodSoft-Landing-page/).
 
 # Installation
 
