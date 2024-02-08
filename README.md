@@ -34,7 +34,7 @@ To get started with the Landing Page project, follow these steps:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/landing-page.git
+   git clone https://the-pranay.github.io/CodSoft-Landing-page.git
 
 # Customization
 
